@@ -1,5 +1,10 @@
 # R script to simulate the segmented relationship from Figure 4
 # (River Right, 100% ALAN intensity treatment)
+# Created by Gemini NotebookLM on 7/23/26 AH Fullerton
+
+#Nelson, T. R., Michel, C. J., Gary, M. P., Lehman, B. M., Demetras, N. J., Dudley, P. N., Hammen, J. J., & Horn, M. J. (2022). Riverine fish density, predator-prey interactions, and their relationships with artificial light at night. Ecosphere, 13(10), e4261.
+#DOI Link: https://doi.org/10.1002/ecs2.4261
+
 
 # 1. Simulate x values (Minutes past sunset)
 x_val <- seq(-50, 300, by = 10)
